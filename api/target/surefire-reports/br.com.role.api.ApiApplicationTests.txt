@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.role.api.ApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.466 s - in br.com.role.api.ApiApplicationTests
